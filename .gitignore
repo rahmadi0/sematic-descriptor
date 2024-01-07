@@ -1,0 +1,6 @@
+main.cpp
+SemanticDescriptor.cpp
+SemanticDescriptor.h
+SemanticDictionary.cpp
+SemanticDictionary.h
+std_lib_facilities.h
